@@ -1,7 +1,7 @@
 # higher-or-lower
 a simplified card game
 
-#Here is the code we created till now.
+##Here is the code we created till now.
 The code generates layout with various regions and creates deck for each player and also discards cards to the discard regions. We will be implenting next steps of the game which includes evaluating value of the cards from the discard region and comparision and maintenance of scores.
 ```
 #lang racket/base
